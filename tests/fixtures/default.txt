@@ -1,0 +1,74 @@
+Attribution after a soft break
+.
+> That's one small step for [a] man, one giant leap for mankind.
+> -- Neil Armstrong (1969, July 21)
+.
+<blockquote>
+<p>That's one small step for [a] man, one giant leap for mankind.</p>
+<cite>Neil Armstrong (1969, July 21)</cite>
+</blockquote>
+.
+
+
+
+Attribution with url
+.
+> That's one small step for [a] man, one giant leap for mankind.
+> -- Armstrong, N. (1969, July 21). Neil Armstrong. Retrieved from https://en.wikipedia.org/wiki/Neil_Armstrong#First_Moon_walk
+.
+<blockquote>
+<p>That's one small step for [a] man, one giant leap for mankind.</p>
+<cite>Armstrong, N. (1969, July 21). Neil Armstrong. Retrieved from https://en.wikipedia.org/wiki/Neil_Armstrong#First_Moon_walk</cite>
+</blockquote>
+.
+
+
+
+Block quote with multiple paragraphs and attribution
+.
+> We choose to go to the Moon! We choose to go to the Moon...
+>
+> We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard; because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one we intend to win, and the others, too.
+>
+> -- Kennedy, J. F. (1962, September 12)
+.
+<blockquote>
+<p>We choose to go to the Moon! We choose to go to the Moon...</p>
+<p>We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard; because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one we intend to win, and the others, too.</p>
+<cite>Kennedy, J. F. (1962, September 12)</cite>
+</blockquote>
+.
+
+
+
+Quotation with no attribution
+.
+> Quotation
+.
+<blockquote>
+<p>Quotation</p>
+</blockquote>
+.
+
+
+
+Quotation that uses a marker in the body
+.
+> Quotation -— Not an attribution line
+.
+<blockquote>
+<p>Quotation -— Not an attribution line</p>
+</blockquote>
+.
+
+
+
+Quotation that uses a marker in the body and an attribution
+.
+> A thought —- and its continuation
+> -— Attribution
+.
+<blockquote>
+<p>A thought -— and its continuation</p>
+<cite>Attribution</cite>
+</blockquote>
